@@ -1,0 +1,12 @@
+[Tt]emp/
+[Ll]ibrary/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ogs/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+.DS_Store
+Thumbs.db
